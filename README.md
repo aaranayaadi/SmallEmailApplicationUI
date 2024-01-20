@@ -12,7 +12,6 @@ This is a simple Android application UI built using Jetpack Compose. It allows u
 - Input fields for email address, subject, and message.
 - Validation for email address and subject.
 - Ability to send emails and display sent emails.
-- Customized background gradient for a visually appealing UI.
 
 ## Technologies Used
 
@@ -21,6 +20,6 @@ This is a simple Android application UI built using Jetpack Compose. It allows u
 
 ## How to Use
 
-1. Clone the repository.
+1. Clone this repository.
 2. Open the project in Android Studio.
 3. Run the application on an Android emulator or physical device.
